@@ -2,7 +2,7 @@
 "Solar-powered IoT smart agriculture system - Bronze Medal Science Fair Project"
 
 # 🌱 Smart IoT Agriculture System  
-**Silver Medal Winner - USAPCS Science Fair**
+**Bronze Medal Winner - USAPCS Science Fair**
 
 A solar-powered IoT-based smart agriculture system designed to optimize resource usage and increase crop yield through automated monitoring and precision irrigation.
 
